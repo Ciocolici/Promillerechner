@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\Promillerechner\bin\Debug\net7.0\Promillerechner.exe
+C:\Users\danie\Documents\GitHub\Promillerechner\bin\Debug\net7.0\Promillerechner.deps.json
+C:\Users\danie\Documents\GitHub\Promillerechner\bin\Debug\net7.0\Promillerechner.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Promillerechner\bin\Debug\net7.0\Promillerechner.dll
+C:\Users\danie\Documents\GitHub\Promillerechner\bin\Debug\net7.0\Promillerechner.pdb
+C:\Users\danie\Documents\GitHub\Promillerechner\obj\Debug\net7.0\Promillerechner.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Promillerechner\obj\Debug\net7.0\Promillerechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Promillerechner\obj\Debug\net7.0\Promillerechner.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Promillerechner\obj\Debug\net7.0\Promillerechner.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Promillerechner\obj\Debug\net7.0\Promillerechner.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Promillerechner\obj\Debug\net7.0\Promillerechner.dll
+C:\Users\danie\Documents\GitHub\Promillerechner\obj\Debug\net7.0\refint\Promillerechner.dll
+C:\Users\danie\Documents\GitHub\Promillerechner\obj\Debug\net7.0\Promillerechner.pdb
+C:\Users\danie\Documents\GitHub\Promillerechner\obj\Debug\net7.0\Promillerechner.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Promillerechner\obj\Debug\net7.0\ref\Promillerechner.dll

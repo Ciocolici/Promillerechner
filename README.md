@@ -1,6 +1,6 @@
 # Promillerechner
-A simple C# (CSharp) Console App project. It calculates the user blood alcohol level. 
+A simple C# (CSharp) Console App exercise-project, done during my classes for IT Specialist in Application Development by Lutz & Grub Academy. It calculates the user blood alcohol level. 
 
-Open "Promillerechner.sln" to see the code. To run the Console App program directly, launch "Promillerechner.exe" located in "bin/Debug/net7.0". 
+*To run the Console App program directly, launch "Promillerechner.exe" located in "bin/Debug/net7.0".*
 
-Note: german language used. 
+*Note: german language used.*
